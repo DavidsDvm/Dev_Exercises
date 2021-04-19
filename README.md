@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DavidsDvm/Dev_Exercises">
-    <img src="img/logo_1.png" alt="Logo" width="80" height="80">
+    <img src="img/logo_1.png" alt="Logo" width="1000" height="80">
   </a>
 
   <h3 align="center">Developer exercises DavidsDvm</h3>
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 In this project i will daily develop new programs and exercises with the objetive of improve my dev skills, i going to use too many dev tools and new ejercises ideas, in this initial fase i will stay learning 2 new leanguages (JavaScript - Python)
 
@@ -146,9 +146,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/DavidsDvm) - dvargas896@misena.edu.co
+David Vargas - [@DavidsDvm](https://twitter.com/DavidsDvm) - dvargas896@misena.edu.co
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/DavidsDvm/Dev_Exercises)
+Project Link: [https://github.com/DavidsDvm/Dev_Exercises](https://github.com/DavidsDvm/Dev_Exercises)
 
 
 
