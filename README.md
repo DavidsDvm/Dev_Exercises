@@ -7,6 +7,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+</head>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -14,7 +18,7 @@
     <img src="img/logo_1.png" alt="Logo" width="1000" height="80">
   </a>
 
-  <h3 align="center">Developer exercises DavidsDvm</h3>
+  <h3 align="center" class="animate__animated animate__wobble">Developer exercises DavidsDvm</h3>
 
   <p align="center">
     Welcome to my developer exercises, this is a personal proyect where i put my daily dev excercises with the objetive of improve my skills on the developing 
